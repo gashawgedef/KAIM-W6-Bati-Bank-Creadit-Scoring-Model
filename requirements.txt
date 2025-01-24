@@ -1,0 +1,10 @@
+numpy
+matplotlib
+seaborn
+scipy
+xgboost
+shap
+telethon
+python-dotenv
+nltk
+pandas
