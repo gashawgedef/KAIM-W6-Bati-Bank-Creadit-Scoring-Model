@@ -1,0 +1,1 @@
+# KAIM-W6-Bati-Bank-Creadit-Scoring-Model
